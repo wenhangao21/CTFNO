@@ -4,9 +4,9 @@ This repository contains the code implementation for the paper titled "Coordinat
 
 Full paper on [OpenReview](https://openreview.net/forum?id=pMD7A77k3i).
 
-<div style="text-align: center;">
-    <img src="https://wenhangao21.github.io/images/TMLR_CTNO.png" alt="Figure" width="350"/>
-</div>
+<p align="center">
+  <img src="https://wenhangao21.github.io/images/TMLR_CTNO.png" alt="Figure" width="400"/>
+</p>
 
 **Bibtex**:
 ```bibtex
