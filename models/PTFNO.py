@@ -213,6 +213,6 @@ class PTFNO2d(nn.Module):
             else:
                 nbytes += param.data.element_size() * param.numel()
 
-        print(f'Total number of model parameters in FNO: {nparams} (~{format_tensor_size(nbytes)})')
+        print(f'Total number of model parameters in Coordinate(Polar) Transform FNO: {nparams} (~{format_tensor_size(nbytes)})')
 
         return nparams
